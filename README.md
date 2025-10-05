@@ -33,9 +33,8 @@ Se utilizan las APIs de **Imgflip** (para memes) y **Giphy** (para GIFs) mediant
 ## Estructura del proyecto
 
 ```plaintext
-Proyecto-Memes-Gifs
+laboratorio_2-Memes-Gifs
 ├── index.html
-├── estilos.css
 ├── datosMemes.js
 ├── datosPokemon.js
 ├── datosUsers.js
