@@ -1,6 +1,6 @@
 
 # Proyecto: Memes y GIFs con APIs públicas
-- Imagen de la tarea 
+## Tarea 
 <img width="1014" alt="Tarea" src="https://github.com/WilmerRamos21/AW_Laboratorio_2/blob/main/Captura%20de%20pantalla%202025-10-05%20a%20la(s)%2018.18.30.png" />
 
 
