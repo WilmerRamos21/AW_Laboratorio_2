@@ -1,5 +1,8 @@
 
 # Proyecto: Memes y GIFs con APIs públicas
+- Imagen de la tarea 
+<img width="1014" alt="InicioSesionBookMe" src="https://github.com/user-attachments/assets/53822893-c70e-4dcb-9286-e1fb47557aa7" />
+
 
 Este proyecto muestra cómo consumir **APIs públicas** en JavaScript para obtener y mostrar **memes e imágenes GIF animadas** en una página web.  
 Se utilizan las APIs de **Imgflip** (para memes) y **Giphy** (para GIFs) mediante la función `fetch` y el manejo asíncrono con `async/await`.
