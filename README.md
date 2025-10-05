@@ -1,7 +1,7 @@
 
 # Proyecto: Memes y GIFs con APIs públicas
 - Imagen de la tarea 
-<img width="1014" alt="InicioSesionBookMe" src="https://github.com/user-attachments/assets/53822893-c70e-4dcb-9286-e1fb47557aa7" />
+<img width="1014" alt="Tarea" src="https://github.com/WilmerRamos21/AW_Laboratorio_2/blob/main/Captura%20de%20pantalla%202025-10-05%20a%20la(s)%2018.18.30.png" />
 
 
 Este proyecto muestra cómo consumir **APIs públicas** en JavaScript para obtener y mostrar **memes e imágenes GIF animadas** en una página web.  
